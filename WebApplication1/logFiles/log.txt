@@ -1,0 +1,74 @@
+6/2/2017 12:49:03 PM
+Project created ans saved successfully
+6/2/2017 12:49:26 PM
+ Creation of Project Failed : Requirements not satisfied
+6/2/2017 12:51:27 PM
+ Creation of Project Failed : Requirements not satisfied
+6/2/2017 12:51:38 PM
+ Project with id: 2 already exists. Attempt Failed
+6/2/2017 1:24:43 PM
+No project that has country= usa was found
+
+6/2/2017 1:25:37 PM
+No project that has country= usa df was found
+
+6/2/2017 1:25:52 PM
+No project that has country= usa  was found
+
+6/2/2017 1:26:05 PM
+No project that has country= usa 324532 was found
+
+6/2/2017 1:26:15 PM
+No project that has country= usa* was found
+
+6/2/2017 1:27:54 PM
+No project that has country= usa* was found
+
+6/2/2017 1:29:50 PM
+No project that has country= usa* was found
+
+6/2/2017 1:30:26 PM 
+Project with id-1has been loaded.
+
+6/2/2017 1:33:12 PM 
+Project with id-1has been loaded.
+
+6/2/2017 1:44:09 PM
+Project with maximum Project Cost has been loaded
+
+6/2/2017 1:44:09 PM 
+Project with id-11has been loaded.
+
+6/2/2017 1:44:35 PM
+Project with maximum Project Cost has been loaded
+
+6/2/2017 1:44:35 PM 
+Project with id-11has been loaded.
+
+6/2/2017 2:11:40 PM
+Project with maximum Project Cost has been loaded
+
+6/2/2017 2:11:40 PM 
+Project with id-11has been loaded.
+
+6/2/2017 2:11:48 PM
+Project with maximum Project Cost has been loaded
+
+6/2/2017 2:11:48 PM 
+Project with id-11has been loaded.
+
+6/2/2017 2:11:56 PM
+Project with maximum Project Cost has been loaded
+
+6/2/2017 2:11:56 PM 
+Project with id-11has been loaded.
+
+6/2/2017 2:13:37 PM 
+Project with id-1has been loaded.
+
+6/2/2017 2:15:39 PM
+No project that has country= "USA" was found
+
+6/2/2017 2:15:53 PM
+No project that has country= USA was found
+
