@@ -5,22 +5,22 @@
   •	RequestProjectController</br>
   
 <b>CreateProjectController:</b></br>
-	Post([FromBody]Project proj):</br>
-	    Creates a new project and saves it to project.txt file.</br>
+	 •Post([FromBody]Project proj):</br>
+	   - Creates a new project and saves it to project.txt file.</br>
       
 <b>RequestProjectController:</b></br>
-	Get(int id):</br>
-	    Returns the project with project id=id </br>
-	Get(string country, int number, string keyword):</br>
-	    Returns the project with satisfies the country, number, keyword </br>
-  Get(String country)</br>
-	    Returns the project with satisfies the country</br>
-  Get(int id, String country, int number)</br>
-	    Returns the project with the given id, that has the country and the keyword </br>
-  Get(String country, int number)</br>
-      Returns the project that has the country and number greater than or equal to the given number. </br>
-	Post([FromBody]Project proj)</br>
-	   Adds a valid project into the .json file.</br>
+	 •Get(int id):</br>
+	  - Returns the project with project id=id </br>
+	 •Get(string country, int number, string keyword):</br>
+	   - Returns the project with satisfies the country, number, keyword </br>
+   •Get(String country)</br>
+	   - Returns the project with satisfies the country</br>
+  •Get(int id, String country, int number)</br>
+	   - Returns the project with the given id, that has the country and the keyword </br>
+   •Get(String country, int number)</br>
+     - Returns the project that has the country and number greater than or equal to the given number. </br>
+	 •Post([FromBody]Project proj)</br>
+	  - Adds a valid project into the .json file.</br>
 
 	Implemented and developed the REST Web service on Visual Studio 2015 using ASP.NET Web API 2 on port 4825.</br>
 
